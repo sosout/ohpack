@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "boot": "lerna bootstrap",
+    "clean": "lerna clean",
+    "test": "lerna run test",
+    "test:oh": "lerna run test --scope ohpack",
+    "test:vue": "lerna run test --scope ohpack-vue",
+    "test:react": "lerna run test --scope ohpack-react",
+    "test:cli": "lerna run test --scope ohpack-cli",
+    "test:server": "lerna run test --scope webpack-tool",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hub.fastgit.org/sosout/ohpack.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
