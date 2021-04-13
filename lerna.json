@@ -4,7 +4,7 @@
     "packages/plugin/*",
     "packages/cli/*"
   ],
-  "version": "0.0.1",
+  "version": "independent",
   "command": {
     "bootstrap": {
       "hoist": false,
