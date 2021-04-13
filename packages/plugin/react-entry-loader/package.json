@@ -1,5 +1,5 @@
 {
-  "name": "react-entry-loader",
+  "name": "@ohpack/react-entry-loader",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
