@@ -10,5 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "webpack-tool": "^5.0.0"
-  }
+  },
+  "gitHead": "921296cc92376c3f5aabf4de9dfa64f0314367ce"
 }

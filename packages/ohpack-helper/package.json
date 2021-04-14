@@ -57,5 +57,6 @@
   },
   "homepage": "https://github.com/sosout/ohpack/tree/dev/packages/ohpack-helper#readme",
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "921296cc92376c3f5aabf4de9dfa64f0314367ce"
 }
